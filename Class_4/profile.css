@@ -1,0 +1,41 @@
+.image {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+
+.section {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+}
+
+h1, h2 {
+    font-size: 35px;
+    font-family: 'Niconne'
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+div {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 10px 10px #88888817;
+    border-radius: 10px;
+  }
+
+  ul { 
+      display: inline-block; 
+        text-align: left; 
+}
