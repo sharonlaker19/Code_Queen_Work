@@ -1,0 +1,40 @@
+.red {
+    color:red;
+    }
+
+    .yellow {
+    color: #e1ad01;
+    }
+
+    .green {
+    color:green;
+    }
+
+    .blue {
+    color:blue;
+    }
+
+    .striped {
+    text-decoration: line-through;
+    }
+
+    .image{
+    border:solid;
+    margin-left: 44px;
+    }
+
+    .section{
+        margin: auto;
+        width: 40%
+    }
+    
+    
+    
+    
+    
+    
+    
+    img {
+        width: 175px;
+    }
+    

@@ -1,0 +1,53 @@
+.image{
+    width:70px;
+}
+.button{
+    width:400px;
+    border-color: #1DA1F2;
+    margin: 8px;
+    padding: 10px;
+    border-radius: 50px;
+    border-style: solid;
+}
+
+.button_one{
+background-color: #1DA1F2;
+}
+
+.button_two{
+    background-color: #ffffff;
+    }
+
+.flex-container{
+    display:flex;
+}
+.div_one, .div_two {
+width: 50%;
+}
+.div_one{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    background-image: url(twitter-background.png);
+}
+.div_two{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    margin-left: 70px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    font-weight: 700;
+}
+
+h2{
+    word-spacing: 3px;
+    color: white;
+    padding-bottom: 25px;
+}
+
+h1{
+    padding-bottom: 20px;  
+}
